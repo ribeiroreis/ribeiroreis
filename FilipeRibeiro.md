@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @ribeiroreis
+- 👋 Hi, I’m @ribeiroreis (Filipe Ribeiro)
 - 👀 I’m interested in Python and Data Analysis
 - 🌱 I’m currently learning Data Science, estatistics and Python for data analysis 
 - 📫 How to reach me: rribfilipe@gmail.com and +55 (37)98827-5113
